@@ -1,0 +1,3 @@
+#!/bin/bash
+
+psql --host=localhost -U postgres sensor-db
